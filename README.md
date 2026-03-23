@@ -25,7 +25,7 @@
 
 📫 Contact:  
 - LinkedIn: https://www.linkedin.com/in/hetvi-patel-5a6467275/
-- Email: hetvipatel.8068@gmail.com
+- Email: hetvi1655@gmail.com
 
 ⚡ Fun Fact: I enjoy solving real-world tech problems and documenting what I learn as I go!
 
