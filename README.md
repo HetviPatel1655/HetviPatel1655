@@ -1,39 +1,74 @@
- Hi, I’m Hetvi Patel
+# Hi, I'm Hetvi Patel 👋
 
-🎓 Final Year B.Tech. Computer Engineering Student  
+Backend Developer focused on building scalable web applications, automation tools, and AI-powered software.
 
-🛡️ Aspiring Cybersecurity Professional | 🐧 Linux & CLI Learner | ⚙️ DevOps Beginner
+## 💻 What I'm Working On
 
----
+* Backend development using TypeScript, Node.js, Express.js, Prisma, and PostgreSQL
+* AI-powered automation using Google Gemini API and Playwright
+* Modern web applications with React
+* Learning Docker, deployment, and scalable application architecture
 
-💡 Areas of Interest:  
-- Cybersecurity: Network Security, Threat Detection, Cloud Security  
-- DevOps (Just getting started): Linux, Git, Docker, CI/CD  
-- Scripting with Python & Bash  
-- Open-source tools and community-driven tech
+## 🚀 Tech Stack
 
-🔧 Currently Learning:  
-- System hardening, vulnerabilities, and threat analysis  
-- Google Cloud Security & related certifications  
-- DevOps pipelines and automation tools  
-- Writing secure code and understanding exploits
+**Languages**
 
-📁 Tech Stack:  
-- Languages: Python, Java, C, SQL  
-- Tools: Git, Linux, VS Code, Wireshark, Burp Suite  
-- Platforms: TryHackMe, Google Cloud Skills Boost
+* TypeScript
+* JavaScript
+* Python
+* Java
+* SQL
 
-📫 Contact:  
-- LinkedIn: https://www.linkedin.com/in/hetvi-patel-5a6467275/
-- Email: hetvi1655@gmail.com
+**Backend**
 
-⚡ Fun Fact: I enjoy solving real-world tech problems and documenting what I learn as I go!
+* Node.js
+* Express.js
+* REST APIs
+* JWT Authentication
 
----
+**Database**
 
-> 🚀 Always building. Always learning. Cybersec on my mind.
+* PostgreSQL
+* Prisma ORM
+* MySQL
+* MongoDB
 
-<!---
-HetviPatel1655/HetviPatel1655 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+**Frontend**
+
+* React
+* HTML
+* CSS
+
+**Tools**
+
+* Git
+* GitHub
+* Docker
+* Postman
+* Playwright
+
+## 📌 Featured Projects
+
+* 🤖 AI Social Automation Agent
+* 🗺️ SmartRoute
+* 🔐 Secure Content Protection Simulation
+
+## 🌱 Currently Learning
+
+* System Design
+* Scalable Backend Architecture
+* AI Agents & Workflow Automation
+* DevOps Fundamentals
+
+## 🏆 Highlights
+
+* 🥇 NASA Space Apps Challenge 2024 – Local Winner (Best Mission Concept)
+* 🌍 WiDS Surat Ambassador
+* 🚀 Software Development Trainee @ 10Turtle Global Pvt. Ltd.
+
+## 📫 Connect
+
+* LinkedIn: <your-linkedin>
+* Email: <your-email>
+
+> I enjoy building software that solves practical problems through backend engineering, automation, and AI.
